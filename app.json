@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "metronom",
-    "slug": "metronom",
+    "name": "metronome",
+    "slug": "metronome",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "metronom",
+    "scheme": "metronome",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
